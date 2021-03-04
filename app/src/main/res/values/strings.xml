@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fitness_App</string>
+
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+
+    <!--my api key-->
+    <string name="google_maps_key">YOUR_KEY_HERE</string>
+</resources>
